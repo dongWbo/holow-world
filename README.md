@@ -1,2 +1,4 @@
 # holow-world
-我在github上的第一个仓库
+My first repository on github
+I love :coffee: :pizza:, and :dancer:. 
+(跟着教程做罢了，W3Cschool)
